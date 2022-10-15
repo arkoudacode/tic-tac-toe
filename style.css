@@ -19,3 +19,84 @@
     -moz-text-shadow: 0 0 10px #ffffff;
     text-shadow: 0 0 10px #ffffff;
 }
+
+.top-row {
+    width: auto;
+    height: 200px;
+}
+
+.top-l {
+    width: 33%;
+    height: 100%;
+    float: left;
+    border-right: 1px solid #fff;
+    border-bottom: 1px solid #fff;
+}
+
+.top-m {
+    width: 33%;
+    height: 100%;
+    float: left;
+    border-right: 1px solid #fff;
+    border-bottom: 1px solid #fff;
+}
+
+.top-r {
+    width: 33%;
+    height: 100%;
+    float: left;
+    border-bottom: 1px solid #fff;
+}
+
+.mid-row {
+    width: auto;
+    height: 200px;
+}
+
+.mid-l {
+    width: 33%;
+    height: 100%;
+    float: left;
+    border-right: 1px solid #fff;
+    border-bottom: 1px solid #fff;
+}
+
+.mid-m {
+    width: 33%;
+    height: 100%;
+    float: left;
+    border-right: 1px solid #fff;
+    border-bottom: 1px solid #fff;
+}
+
+.mid-r {
+    width: 33%;
+    height: 100%;
+    float: left;
+    border-bottom: 1px solid #fff;
+}
+
+.bottom-row {
+    width: auto;
+    height: 200px;
+}
+
+.bot-l {
+    width: 33%;
+    height: 100%;
+    float: left;
+    border-right: 1px solid #fff;
+}
+
+.bot-m {
+    width: 33%;
+    height: 100%;
+    float: left;
+    border-right: 1px solid #fff;
+}
+
+.bot-r {
+    width: 33%;
+    height: 100%;
+    float: left;
+}
