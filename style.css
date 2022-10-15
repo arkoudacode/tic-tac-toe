@@ -1,0 +1,21 @@
+.body {
+    background-color: #000000;
+    color: #ffffff;
+}
+
+.gameboard {
+    margin: 0 auto;
+    width: 600px;
+    height: 600px;
+    background-color: #000000;
+    border: 1px solid #ffffff;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+    -webkit-box-shadow: 0 0 10px #ffffff;
+    -moz-box-shadow: 0 0 10px #ffffff;
+    box-shadow: 0 0 10px #ffffff;
+    -webkit-text-shadow: 0 0 10px #ffffff;
+    -moz-text-shadow: 0 0 10px #ffffff;
+    text-shadow: 0 0 10px #ffffff;
+}
